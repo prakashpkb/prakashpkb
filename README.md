@@ -3,7 +3,7 @@
 ## I am a Traveller :airplane:, Nature Lover 🌱 and a problem solver who loves to code😊.
 
 ### 🤝 Connect with me:
-<a href="https://www.linkedin.com/in/prakashpkb/"><img align="left" src="https://raw.githubusercontent.com/prakashpkb/prakashpkb/master/icons8-linkedin.svg" alt="Prakash | LinkedIn" width="auto"/></a>
+<a href="https://www.linkedin.com/in/prakashpkb/"><img align="left" src="https://raw.githubusercontent.com/prakashpkb/prakashpkb/main/icons8-linkedin.svg" alt="Prakash | LinkedIn" width="21px"/></a>
 <a href="https://twitter.com/Prakashpkbpk"><img align="left" src="https://raw.githubusercontent.com/prakashpkb/prakashpkb/main/icons8-twitter.svg" alt="Prakash | Twitter" width="21px"/></a>
 <a href="https://www.facebook.com/profile.php?id=100023139098387"><img align="left" src="https://raw.githubusercontent.com/prakashpkb/prakashpkb/main/icon8-facebook.svg" alt="Prakash | Facebook" width="21px"/></a>
 </br>
