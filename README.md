@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there <img src="https://raw.githubusercontent.com/prakashpkb/prakashpkb/master/wave.gif" width="30px">
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=prakashpkb&theme=dark" />
+-->[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=prakashpkb)](https://github.com/prakashpkb/github-contribution-stats/)
 
 <!--
 **prakashpkb/prakashpkb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
