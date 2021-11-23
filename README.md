@@ -1,9 +1,7 @@
 ## Hi there <img src="https://raw.githubusercontent.com/prakashpkb/prakashpkb/master/wave.gif" width="30px">
-
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=prakashpkb&theme=dark" />
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=prakashpkb)](https://github.com/LordDashMe/github-contribution-stats/)
-
 <!--
 **prakashpkb/prakashpkb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
