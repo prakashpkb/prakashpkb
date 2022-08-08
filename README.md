@@ -1,6 +1,6 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-## I am a Traveller :airplane:, Nature Lover 🌱 and a problem solver who loves to code😊.
+## I am a Traveller :airplane:, Nature Lover 🌱, Tech Geek and a problem solver who loves to code😊.
 
 ### 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/prakashpkb/"><img align="left" src="https://raw.githubusercontent.com/prakashpkb/prakashpkb/main/icons8-linkedin.svg" alt="Prakash | LinkedIn" width="21px"/></a>
